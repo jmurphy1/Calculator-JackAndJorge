@@ -1,0 +1,55 @@
+.btn-size {
+font-size: 30px;
+height: 100px !important;
+width: 100px !important;
+background-color: royalblue;
+    color : black;
+    text-align: center;
+}
+
+.btn-size-f {
+font-size: 30px;
+height: 100px !important;
+width: 100px !important;
+background-color: mediumseagreen;
+    color : black;
+    text-align: center;
+}
+
+.btn-size-c {
+font-size: 30px;
+height: 100px !important;
+width: 100px !important;
+background-color: indianred;
+    color : black;
+    text-align: center;
+}
+
+.btn-size-z {
+font-size: 30px;
+height: 100px !important;
+width: 203.5px !important;
+background-color: royalblue;
+color : black;
+text-align: center;
+
+}
+
+body {
+background-color: lightblue;
+}
+
+#screen {
+    height: 50px;
+    width: 300px;
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center
+}
+
+#content {
+    text-align: center;
+
+}
